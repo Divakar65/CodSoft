@@ -6,9 +6,9 @@ Welcome to my GitHub repository! This repository contains the projects and tasks
 
 ## Table of Contents
 
-1. [Task 1: Java Application Development](#task-1-java-application-development)
-2. [Task 2: Data Processing with Java](#task-2-data-processing-with-java)
-3. [Task 3: API Integration](#task-3-api-integration)
+1. [Task 1: Number Games]()
+2. [Task 2: Student Game Calculator]()
+3. [Task 3: ATM Process]()
 
 ## Task 1: Java Application Development
 
