@@ -6,7 +6,7 @@ Welcome to my GitHub repository! This repository contains the projects and tasks
 
 ## Table of Contents
 
-1. [Task 1: Number Games]()
+1. [Task 1: Number Games](https://github.com/Divakar65/CodSoft/blob/a885ced3e7f38b67aad59bcfe82e5e0181c668f7/Task1.java)
 2. [Task 2: Student Game Calculator]()
 3. [Task 3: ATM Process]()
 
